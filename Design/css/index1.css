@@ -1,0 +1,148 @@
+body {
+    text-align: center;
+}
+
+/* Headings */
+
+.big-heading {
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 800;
+    font-size: 3.0rem;
+    line-height: 1.5;
+}
+
+
+/* Sections */
+
+.colored-section {
+    background-color: #ddb794;
+    color: #000000;
+}
+
+.salon-title-01{
+    padding-top:  2%;
+    padding-bottom: 4%;
+    color: darkblue;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+.salon-title-02{
+    color: black;
+    font-weight: bold;
+}
+
+#title .container-fluid {
+    padding: 6% 15% 10%;
+    text-align: left;
+}
+
+/* Download Button */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.download-button-girl {
+    background-color: #ff4c68;
+}
+
+/* Title image */
+
+.title-image {
+    width: 70%;
+    transform: rotate(15deg);
+    border-radius: 10%;
+    position: relative;
+}
+
+/* Features */
+
+.white-section{
+    background-color: #fff;
+    text-align: center;
+}
+
+.feature-col{
+    text-align: center;
+}
+
+.feature-para{
+    text-align: center;
+}
+
+.feature-icon{
+    color: #e4b88e;
+    
+}
+
+.feature-icon:hover{
+    color: #f99231;
+}
+
+/* footer section */
+.widget_section
+{
+    background-color: #222227;
+    padding: 100px 0;
+}
+
+.salon-logo{
+    width: 300px;
+    height: 80px;
+}
+.logo-bottom {
+    margin-bottom: 30px;
+}
+
+.footer_widget p 
+{
+    color: #999;
+}
+.footer_widget h3 
+{
+    color: #fff;
+}
+.subscribe_form 
+{
+    display: block;
+    text-align: center;
+    padding: 5px 0;
+}
+.subscribe_form .form_input 
+{
+    display: block;
+    color: #fff;
+    border: none;
+    font-size: 14px;
+    line-height: 50px;
+    padding: 0 10px;
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+    transition: all 0.5s ease-in-out;
+}
+.subscribe_form .submit 
+{
+    background-color: rgb(198, 56, 80);
+    color: #fff;
+    font-family: "Work Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 50px;
+    display: inline-block;
+    padding: 0 10px;
+    width: 100%;
+    cursor: pointer;
+    border: none;
+    transition: all 0.5s ease-in-out;
+}
+
+.subscribe_form .submit:hover 
+{
+    background-color: #d58484;
+    transition: all 0.5s ease-in-out;
+}
+
+
